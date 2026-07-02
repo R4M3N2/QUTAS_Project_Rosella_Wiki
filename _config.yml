@@ -5,5 +5,5 @@ plugins:
   - jekyll-remote-theme
 markdown: kramdown
 color_scheme: dark
-logo: "/00-global-assets/QUTAS Logo Colour.png"
-favicon_ico: "/00-global-assets/QUTAS Logo Colour.png"
+logo: "/assets/Global/QUTAS Logo Colour.png"
+favicon_ico: "/assets/Global/QUTAS Logo Colour.png"
