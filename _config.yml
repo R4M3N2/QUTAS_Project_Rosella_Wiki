@@ -1,7 +1,19 @@
-title: QUTAS Project Rosella Wiki
+title: Project Rosella Wiki
 description: Wiki for the QUTAS Project Rosella
+
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
+
 markdown: kramdown
+
+# Sidebar navigation structure
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+
+collections:
+  docs:
+    output: true
