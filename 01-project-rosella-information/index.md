@@ -1,6 +1,7 @@
 ---
 title: Project Rosella Information
 has_children: true
+nav_order: 2
 ---
 
 # Project Rosella Information
