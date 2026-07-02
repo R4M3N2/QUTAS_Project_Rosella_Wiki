@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0a2a5c;
+      }
+
+      .cls-2 {
+        fill: #e98a4a;
+      }
+
+      .cls-3 {
+        fill: #d66522;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="81.91 18.37 81.91 44.24 129.99 105.05 81.91 18.37"/>
+  <polygon class="cls-1" points="81.91 78.16 129.99 141.63 129.99 105 81.91 78.16"/>
+  <polygon class="cls-3" points="81.91 44.18 81.91 78.15 129.99 104.99 81.91 44.18"/>
+  <polygon class="cls-2" points="78.09 18.37 78.09 44.24 30.01 105.05 78.09 18.37"/>
+  <polygon class="cls-1" points="78.09 78.16 30.01 141.63 30.01 105 78.09 78.16"/>
+  <polygon class="cls-3" points="78.09 44.18 78.09 78.15 30.01 104.99 78.09 44.18"/>
+</svg>
