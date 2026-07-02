@@ -1,5 +1,5 @@
 ---
 title: Overview
-parent: Project Rosella Administration
+parent: Guidance, Navigation, and Control
 nav_order: 1
 ---
