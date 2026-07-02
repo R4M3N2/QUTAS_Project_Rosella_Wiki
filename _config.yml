@@ -1,7 +1,8 @@
-title: UAS Program Wiki
+title: QUT Aerospace Society UAS Program Wiki
 description: Wiki for the QUTAS Project Rosella
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 markdown: kramdown
 color_scheme: dark
+logo: "/00-global-assets/QUTAS Logo Colour.svg"
