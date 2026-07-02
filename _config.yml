@@ -1,4 +1,7 @@
 title: QUTAS Project Rosella Wiki
 description: Wiki for the QUTAS Project Rosella
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
 markdown: kramdown
