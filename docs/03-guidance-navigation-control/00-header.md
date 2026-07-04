@@ -1,8 +1,7 @@
 ---
 title: Guidance, Navigation, and Control
 has_children: true
-nav_order: 3
-parent: Project Rosella Wiki
+nav_order: 4
 ---
 
 # Guidance, Navigation, and Control

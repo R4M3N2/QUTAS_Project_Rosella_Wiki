@@ -1,8 +1,7 @@
 ---
 title: Aerostructures
 has_children: true
-nav_order: 4
-parent: Project Rosella Wiki
+nav_order: 5
 ---
 
 # Aerostructures
