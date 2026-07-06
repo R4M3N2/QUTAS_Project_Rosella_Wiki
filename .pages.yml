@@ -14,10 +14,10 @@ content:
         label: Description
         type: string
 
-      - name: body
-        label: Content
-        type: rich-text      
-
       - name: parent
         label: parent
         type: string
+
+      - name: body
+        label: Content
+        type: rich-text      
