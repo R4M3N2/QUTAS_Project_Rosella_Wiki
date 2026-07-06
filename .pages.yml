@@ -22,6 +22,10 @@ content:
         label: parent
         type: string
 
+      - name: has_children
+        label: has_children
+        type: boolean     
+
       - name: body
         label: Content
         type: rich-text      
