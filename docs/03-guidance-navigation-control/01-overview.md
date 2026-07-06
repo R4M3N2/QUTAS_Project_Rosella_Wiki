@@ -1,5 +1,5 @@
 ---
 title: Overview
-parent: Guidance, Navigation, and Control
+parent: Guidance, Navigation, Control
 nav_order: 1
 ---
