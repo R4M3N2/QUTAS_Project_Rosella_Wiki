@@ -14,6 +14,10 @@ content:
         label: Description
         type: string
 
+      - name: nav_order
+        label: nav_order
+        type: number
+
       - name: parent
         label: parent
         type: string
