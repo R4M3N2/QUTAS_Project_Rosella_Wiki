@@ -1,7 +1,8 @@
 ---
 title: Rosella Constitution
 description: UAS Education Competition Constitution, must be visible and updated
-  to the latest version possible. A downloaded version must
+  to the latest version possible. A downloaded version must be available at all
+  times.
 nav_order: 4
 parent: Project Rosella Information
 has_children: false
@@ -11,6 +12,7 @@ has_children: false
 - Below is an online version of the UAS Education Competition Constitution. 
 - If any conflicts exist between the online and PDF offline version, always refer to the PDF offline version of the constitution.
 - The offline version can be viewed and downloaded by scrolling to the bottom of the page.
+- The online version is updated to the latest version as of the 7/07/2026.
 
 # UAS Education Competition Constitution
 
