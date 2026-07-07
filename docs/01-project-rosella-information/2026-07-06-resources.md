@@ -8,25 +8,32 @@ has_children: false
 
 ## Links
 
-Design Specifications Google Sheets: ++[https://docs.google.com/spreadsheets/d/1E94NFjY41AsaatoZ7QQTIjtCGrXLUdDabtdoDuA-dU8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1E94NFjY41AsaatoZ7QQTIjtCGrXLUdDabtdoDuA-dU8/edit?usp=sharing)++
+Design Specifications Google Sheets:
+docs.google.com/spreadsheets/d/1E94NFjY41AsaatoZ7QQTIjtCGrXLUdDabtdoDuA-dU8/edit?usp=sharing
 
-Airfoil Tools: [https://airfoiltools.com/](https://airfoiltools.com/)
+Airfoil Tools:
+airfoiltools.com
 
-ArduPilot Plane: [https://ardupilot.org/plane/index.html](https://ardupilot.org/plane/index.html)
+ArduPilot Plane:
+ardupilot.org/plane/index.html
 
 ## Part Links
 
-Flight Controller: ++[https://ardupilot.org/copter/docs/common-pixhawk-overview.html](https://ardupilot.org/copter/docs/common-pixhawk-overview.html)++
+Flight Controller:
+ardupilot.org/copter/docs/common-pixhawk-overview.html
 
 ## Helpful Content
 
-Guide of How to Design Aerostructures by Lachlan SS: [https://docs.google.com/document/d/1lxRe5LAxEvZiHG5eWbpoP4w4slPOS92D5BTd8aTvm8k/edit?usp=sharing](https://docs.google.com/document/d/1lxRe5LAxEvZiHG5eWbpoP4w4slPOS92D5BTd8aTvm8k/edit?usp=sharing)
+Guide of How to Design Aerostructures by Lachlan SS:
+docs.google.com/document/d/1lxRe5LAxEvZiHG5eWbpoP4w4slPOS92D5BTd8aTvm8k/edit?usp=sharing
 
 Aircraft Design and Aerodynamics Youtube Series by GabeFPV:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=dBuYHOuWY7f343C5&amp;list=PLL1VnFOukxRUQJ23OKtzp6Ws3ftkHIjCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 Wiring and Setup with ArduPlane Youtube Video by Tim The Plane Man:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hSK9pMI-VmA?si=Q7JGRwBrSxgzcrwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 Aerodynamics Youtube Series by Prof. Van Buren:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=3SmKYAszipE1Z_2w&amp;list=PLe2kb8k5FJpgLfhf18VphADpX9qvaby6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
