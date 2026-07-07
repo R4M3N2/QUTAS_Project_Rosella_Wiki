@@ -1,5 +1,6 @@
 ---
 title: Resources
+description: Only edit the Context section in Source mode!!
 nav_order: 6
 parent: Project Rosella Information
 has_children: false
@@ -10,18 +11,17 @@ has_children: false
 
 Design Specifications Google Sheets:
 
-<a href="https://docs.google.com/spreadsheets/d/1E94NFjY41AsaatoZ7QQTIjtCGrXLUdDabtdoDuA-dU8/edit?usp=sharing">Rosella Projecr Specifications</a>
+<a href="https://docs.google.com/spreadsheets/d/1E94NFjY41AsaatoZ7QQTIjtCGrXLUdDabtdoDuA-dU8/edit?usp=sharing">Rosella Project Specifications</a>
 
 Airfoil Tools:  
 <a href="http://airfoiltools.com">airfoiltools.com</a>
 
 ArduPilot Plane:
-https://ardupilot.org/plane/index.html
 <a href="https://ardupilot.org/plane/index.html">ardupilot.org/plane</a>
 
 ## Part Links
 
-Flight Controller:  
+Flight Controller:
 <a href="https://ardupilot.org/copter/docs/common-pixhawk-overview.html">ardupilot.org</a>
 
 ## Helpful Content
