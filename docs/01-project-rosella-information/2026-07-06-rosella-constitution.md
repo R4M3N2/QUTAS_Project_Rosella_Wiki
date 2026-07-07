@@ -11,7 +11,7 @@ has_children: false
 
 - Below is an online version of the UAS Education Competition Constitution. 
 - If any conflicts exist between the online and PDF offline version, always refer to the PDF offline version of the constitution.
-- The offline version can be viewed and downloaded by scrolling to the bottom of the page.
+- The offline version can be viewed and downloaded by accessing it in the Rosella Links and Resources Channel on Discord.
 - The online version is updated to the latest version as of the 7/07/2026.
 
 # UAS Education Competition Constitution
@@ -26,42 +26,42 @@ QUT Aerospace Society | 2026 Semester 2 | V1
 - To produce opportunity for project members to further their individual careers and their role in QUTAS.
 - To develop pathways for members to become involved in other QUTAS programs/projects.
 
-### 1.2 Member Experience 
+### 1.2 Member Experience
 
 - To experience a professional and well organised learning environment. 
 - To trust and feel well supported by members of project administration and their own team.
-- To have fun and develop strong relationships with others. 2. Affiliation and Oversight 
+- To have fun and develop strong relationships with others. 2. Affiliation and Oversight
 
 ## 2. Affiliation and Oversight
 
-### 2.1 QUT Aerospace Society 
+### 2.1 QUT Aerospace Society
 
 - This project is subject to the administration and oversight of the executives of the QUTAS Uncrewed Aerial Systems (UAS) program, the QUTAS management team, and the overall QUTAS constitution. 
-- This project and it's members remain subject to the overall constitution of QUTAS. 
+- This project and it's members remain subject to the overall constitution of QUTAS.
 
 ### 2.2 QUT faculty of engineering
 
 - This project is subject to the administration and oversight of the QUT faculty of engineering and of the QUTAS academic representatives of the QUT faculty of engineering.
 
-##  3. Management and Governance Structure 
+## 3. Management and Governance Structure
 
-### 3.1 Project Administration Team 
+### 3.1 Project Administration Team
 
 - The project administration team operates the UAS education program. 
 - Project Director. 
-  - Holds authority under the UAS program lead to administrate the UAS education program. Responsibilities are to coordinate and oversee the operational administrative teams of the program, to make strategic decisions to further the objectives of the Uncrewed Education Program, and to ensure project culture remains conducive to completing its objectives. 
+  - Holds authority under the UAS program lead to administrate the UAS education program. Responsibilities are to coordinate and oversee the operational administrative teams of the program, to make strategic decisions to further the objectives of the Uncrewed Education Program, and to ensure project culture remains conducive to completing its objectives.
 - Deputy Project Director. 
-  - Responsibilities are to support and oversee the responsibilities of the project director and the operations of the project administrative teams 
+  - Responsibilities are to support and oversee the responsibilities of the project director and the operations of the project administrative teams
 - Aerostructures Operational Team Lead. 
   - Responsibilities are to coordinate and oversee the Aerostructures Operational Team.
 - Aerostructures Operational Team Vice-Lead. 
-  - Responsibilities are to support the coordination and oversight of the Aerostructures Operational Team. 
+  - Responsibilities are to support the coordination and oversight of the Aerostructures Operational Team.
 - Guidance, Navigation, and Control Operational Team Lead. 
   - Responsibilities are to coordinate and oversee the Guidance, Navigation, and Control Operational Team.
 - Guidance, Navigation, and Control Operational Team Vice-Lead. 
-  - Responsibilities are to support the coordination and oversight of the Guidance, Navigation, and Control Operational Team. 
+  - Responsibilities are to support the coordination and oversight of the Guidance, Navigation, and Control Operational Team.
 - Business Strategy Operational Team Lead (optional). 
-  - Responsibilities are to coordinate and oversee the Business Strategy Operational Team. 
+  - Responsibilities are to coordinate and oversee the Business Strategy Operational Team.
 - Business Strategy Operational Team Vice-Lead. 
   - Responsibilities are to support the coordination and oversight of the Business Strategy Operational Team.
 - Guidance, Navigation, and Control Operational Team Vice-Lead. 
@@ -69,13 +69,13 @@ QUT Aerospace Society | 2026 Semester 2 | V1
 - Creative Industries Operational Team Lead (optional). 
   - Responsibilities are to coordinate and oversee the Creative Industries Operational Team.
 - Creative Industries Operational Team Vice-Lead. 
-  - Responsibilities are to support the coordination and oversight of the Creative Industries Operational Team. 
+  - Responsibilities are to support the coordination and oversight of the Creative Industries Operational Team.
 
 ### 3.2 Aerostructures Operational Team
 
 - Responsible for educating members to develop and produce the aerostructures of uncrewed aerial systems.
 - Responsible for operating weekly member education workshops for Aerostructures.
-- Responsible for supporting teams to develop and produce the aerostructures of uncrewed aerial systems. 
+- Responsible for supporting teams to develop and produce the aerostructures of uncrewed aerial systems.
 
 ### 3.3 Guidance, Navigation, and Control Operational Team
 
@@ -94,9 +94,9 @@ QUT Aerospace Society | 2026 Semester 2 | V1
 
 - Responsible for managing project marketing.
 - Responsible for the education of project members studying creative industries related courses.
-- Responsible for designing and supporting members to design aircraft liveries. 
+- Responsible for designing and supporting members to design aircraft liveries.
 
-## 4. Official Meetings 
+## 4. Official Meetings
 
 ### 4.1 Administrative Meetings
 
@@ -104,14 +104,14 @@ QUT Aerospace Society | 2026 Semester 2 | V1
 
 ### 4.2 Operational Team Meetings
 
-- All members of operational teams will meet once per week (at any time of their choosing) either online or in-person (excluding peak assignment/exam periods and optionally for members during university holidays or for special consideration) 
+- All members of operational teams will meet once per week (at any time of their choosing) either online or in-person (excluding peak assignment/exam periods and optionally for members during university holidays or for special consideration)
 
-## 5. Election Processes 
+## 5. Election Processes
 
 ### 5.1 Bi-Yearly Election
 
 - An election must be held in week 10 of each semester of the year to reelect all administrative positions.
-- This election may also include amendments to the constitution. 
+- This election may also include amendments to the constitution.
 
 ### 5.2 Optional Elections
 
@@ -128,9 +128,9 @@ All members going for a position must be given the opportunity to nominate (give
 - The program director will be voted first, the vice-director will be voted second, the GNC operational team lead will be voted third, the aerostructures operational team lead will be voted fourth, the business strategy operational team lead will be voted fifth, the creative industries operational team lead will be voted sixth, the GNC operational team vice-lead will be voted seventh, the aerostructures operational team vice-lead will be voted eighth, the business strategy operational team vice-lead will be voted ninth, the creative industries operational team vice-lead will be voted tenth.
 - All votes must be collected and counted anonymously.
 - Tie’s will be sorted out by revote, if still not decided, UAS program lead will select.
-- Self voting is allowed. 
+- Self voting is allowed.
 
-## 6. Code of Conduct and Discipline 
+## 6. Code of Conduct and Discipline
 
 ### 6.1 Executive and Competition Impartiality
 
@@ -141,13 +141,13 @@ All members going for a position must be given the opportunity to nominate (give
 - Not influence judging, assessment, or allocation of competition outcomes involving their own team.
 - Declare any conflict of interest relating to project decisions.
 - Remove themselves from decisions where a reasonable conflict of interest exists.
-- Any administrative member found to have intentionally abused their position may be subject to disciplinary action under this constitution. 
+- Any administrative member found to have intentionally abused their position may be subject to disciplinary action under this constitution.
 
 ### 6.2 Member Commitment and Communication
 
 - Members are expected to contribute to the project in a respectful, professional, and cooperative manner.
 - Members should: Attend workshops and meetings where reasonably possible. Notify their team lead if they cannot attend scheduled activities. Communicate respectfully with all members. Complete agreed tasks within reasonable timeframes where practical. Assist other members where appropriate to promote a collaborative learning environment.
-- Members shall not: Harass, intimidate, bully, or discriminate against any other member. Deliberately disrupt workshops or project activities. Damage project equipment through reckless or intentional behaviour. Deliberately withhold information required for the completion of project objectives. Misrepresent the project, QUTAS, QUT, sponsors, or competition organisers. 
+- Members shall not: Harass, intimidate, bully, or discriminate against any other member. Deliberately disrupt workshops or project activities. Damage project equipment through reckless or intentional behaviour. Deliberately withhold information required for the completion of project objectives. Misrepresent the project, QUTAS, QUT, sponsors, or competition organisers.
 
 ### 6.3 Disciplinary Procedures
 
@@ -164,9 +164,9 @@ The hearing shall consist of: Four non-conflicted QUTAS executives acting as the
 - The member shall: Receive at least five days written notice of the hearing. Receive a copy of the alleged breaches. Receive all available evidence before the hearing. Be provided with a copy of this constitution. Be given reasonable opportunity to present evidence and respond to allegations. Be permitted to call relevant witnesses where practical.
 - The Hearing Council may also request witnesses to provide evidence.
 - Following all submissions, the Hearing Council shall deliberate privately before reaching a decision by majority vote.
-- The member shall be informed of the decision and reasons within seven days. 
+- The member shall be informed of the decision and reasons within seven days.
 
-## 7. Amendments to the Constitution 
+## 7. Amendments to the Constitution
 
 ### 7.1 Authority
 
@@ -175,32 +175,32 @@ The hearing shall consist of: Four non-conflicted QUTAS executives acting as the
 ### 7.2 Notice of Proposed Amendments
 
 - Any proposed amendment must be distributed to all active project members at least seven (7) days before the constitutional vote.
-- Each proposed amendment must include: the section(s) of the constitution affected; the current wording; the proposed wording; and a brief explanation of the purpose of the amendment. 
+- Each proposed amendment must include: the section(s) of the constitution affected; the current wording; the proposed wording; and a brief explanation of the purpose of the amendment.
 
 ### 7.3 Individual Consideration of Amendments
 
 - Each proposed amendment shall be considered and voted upon individually.
 - No constitutional vote may combine multiple unrelated amendments into a single proposal.
 - Where multiple amendments are proposed, each amendment must receive its own separate vote and shall succeed or fail independently of all other proposed amendments.
-- Amendments that are consequential to another amendment may only be voted upon after the primary amendment has been decided. 
+- Amendments that are consequential to another amendment may only be voted upon after the primary amendment has been decided.
 
 ### 7.4 Constitutional Voting
 
 - Only members meeting the eligibility requirements under Section 5.3 may vote on constitutional amendments.
 - An individual constitutional amendment shall require: at least six (6) eligible voting members participating; and approval by at least two-thirds (66.7%) of valid votes cast.
-- Abstentions shall not count towards either side. 
+- Abstentions shall not count towards either side.
 
 ### 7.5 Commencement
 
 - Unless otherwise specified, a successful constitutional amendment shall take effect immediately following the declaration of the vote.
-- The Project Director shall ensure the updated constitution is distributed to all members within seven (7) days of the amendment being adopted. 
+- The Project Director shall ensure the updated constitution is distributed to all members within seven (7) days of the amendment being adopted.
 
 ## 8. Communication and Documentation
 
 ### 8.1 Official Communication Platforms
 
 - The Project Administration Team shall maintain official communication platforms for all project members.
-- Official project announcements, workshop information, meeting notices, elections, constitutional amendments, and other important administrative matters shall only be communicated through approved project communication channels. 
+- Official project announcements, workshop information, meeting notices, elections, constitutional amendments, and other important administrative matters shall only be communicated through approved project communication channels.
 
 ### 8.2 Transparency of Administrative Communication
 
@@ -213,7 +213,7 @@ The hearing shall consist of: Four non-conflicted QUTAS executives acting as the
 ### 8.3 Workshop Communications
 
 - Members shall receive reasonable notice of all workshops and project activities.
-- Where practical: a weekly schedule shall be communicated at the beginning of each week; and a reminder shall be sent on the day of each workshop. 
+- Where practical: a weekly schedule shall be communicated at the beginning of each week; and a reminder shall be sent on the day of each workshop.
 
 ### 8.4 Project Wiki
 
@@ -225,7 +225,7 @@ The hearing shall consist of: Four non-conflicted QUTAS executives acting as the
 ### 8.5 Project Documentation
 
 - The Project Administration Team shall maintain accurate project records, including where practical: meeting minutes; project plans and timelines; design files; risk assessments; competition submissions; constitutional records; and other documentation necessary for the effective operation of the project.
-- Unless restricted by legal, regulatory, privacy, or commercial obligations, project documentation should be made accessible to project members to promote transparency, collaboration, and education. 
+- Unless restricted by legal, regulatory, privacy, or commercial obligations, project documentation should be made accessible to project members to promote transparency, collaboration, and education.
 
 ## 9. Project Limitations
 
@@ -259,19 +259,19 @@ The hearing shall consist of: Four non-conflicted QUTAS executives acting as the
 
 - No member shall be required or pressured to sign any legal agreement, contract, license, confidentiality agreement, intellectual property agreement, or similar legal instrument as a condition of participation in the program.
 - This limitation does not apply to: documentation required by the Queensland University of Technology; documentation required by Australian Government agencies; safety documentation; competition registration documents; or documents reasonably required to comply with applicable law.
-- Only authorised representatives of QUT Aerospace Society or Queensland University of Technology may enter into agreements on behalf of the project. 
+- Only authorised representatives of QUT Aerospace Society or Queensland University of Technology may enter into agreements on behalf of the project.
 
 ### 9.6 Regulatory Compliance
 
 - All project activities shall comply with: applicable Commonwealth, State, and local laws; Civil Aviation Safety Authority (CASA) regulations; Queensland University of Technology policies; competition rules; and any applicable safety requirements.
 - The project shall not knowingly design, manufacture, test, or operate any system in a manner that breaches applicable aviation, export control, or other regulatory requirements.
-- Members shall comply with all operational limitations imposed by CASA, competition organisers, and Queensland University of Technology. 
+- Members shall comply with all operational limitations imposed by CASA, competition organisers, and Queensland University of Technology.
 
 ### 9.7 Intellectual Property
 
 - Unless otherwise required by Queensland University of Technology policy, competition rules, sponsorship agreements approved by QUTAS, or applicable law, project work shall be developed for the educational benefit of members.
 - Where Queensland University of Technology policies require ownership, licensing, or assignment of intellectual property, members shall be informed before undertaking the relevant activity.
-- No Project Administration Team member may independently assign, transfer, sell, or licence project intellectual property on behalf of project members without approval from the QUT Aerospace Society Executive and, where required, Queensland University of Technology. 
+- No Project Administration Team member may independently assign, transfer, sell, or licence project intellectual property on behalf of project members without approval from the QUT Aerospace Society Executive and, where required, Queensland University of Technology.
 
 ### 9.8 Export-Controlled Technology and Sensitive Information
 
@@ -279,14 +279,9 @@ The hearing shall consist of: Four non-conflicted QUTAS executives acting as the
 - Members shall handle confidential, sponsor-provided, university, and personal information responsibly and only for authorised project purposes.
 - Sensitive information shall only be shared with members who reasonably require access to fulfil their project responsibilities.
 
-## 10. Program branding 
+## 10. Program branding
 
 ### 10.1 Project Name
 
 - The UAS Design Competition will operate under the name: Project Rosella
 
-# Offline Version Download
-
-
-
-&nbsp;
