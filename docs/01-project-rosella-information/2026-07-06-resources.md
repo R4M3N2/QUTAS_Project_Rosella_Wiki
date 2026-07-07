@@ -22,8 +22,8 @@ Flight Controller: ++[https://ardupilot.org/copter/docs/common-pixhawk-overview.
 
 Guide of How to Design Aerostructures by Lachlan SS: [https://docs.google.com/document/d/1lxRe5LAxEvZiHG5eWbpoP4w4slPOS92D5BTd8aTvm8k/edit?usp=sharing](https://docs.google.com/document/d/1lxRe5LAxEvZiHG5eWbpoP4w4slPOS92D5BTd8aTvm8k/edit?usp=sharing)
 
-Aircraft Design and Aerodynamics Youtube Series by GabeFPV: [https://www.youtube.com/playlist?list=PLL1VnFOukxRUQJ23OKtzp6Ws3ftkHIjCM](https://www.youtube.com/playlist?list=PLL1VnFOukxRUQJ23OKtzp6Ws3ftkHIjCM)++](https://www.youtube.com/playlist?list=PLL1VnFOukxRUQJ23OKtzp6Ws3ftkHIjCM](https://www.youtube.com/playlist?list=PLL1VnFOukxRUQJ23OKtzp6Ws3ftkHIjCM)++)
+Aircraft Design and Aerodynamics Youtube Series by GabeFPV: [https://www.youtube.com/playlist?list=PLL1VnFOukxRUQJ23OKtzp6Ws3ftkHIjCM]
 
-Wiring and Setup with ArduPlane Youtube Video by Tim The Plane Man: [https://youtu.be/hSK9pMI-VmA?si=qRcbmZf7uILIg5Wl](https://youtu.be/hSK9pMI-VmA?si=qRcbmZf7uILIg5Wl)
-
+Wiring and Setup with ArduPlane Youtube Video by Tim The Plane Man:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hSK9pMI-VmA?si=Q7JGRwBrSxgzcrwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Aerodynamics Youtube Series by Prof. Van Buren: [https://youtube.com/playlist?list=PLe2kb8k5FJpgLfhf18VphADpX9qvaby6k&si=GvqN_-BT4fV9bjMN](https://youtube.com/playlist?list=PLe2kb8k5FJpgLfhf18VphADpX9qvaby6k&si=GvqN_-BT4fV9bjMN)
